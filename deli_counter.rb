@@ -71,7 +71,36 @@ end
 
 
 def now_serving(array)
-  if array.
+  if array.empty?
+    ....
+  else 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
