@@ -33,7 +33,7 @@ def now_serving(array)
   end
 end
 
-array[-1] = 
+
 
 
 
