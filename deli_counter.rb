@@ -10,7 +10,7 @@ def line(array)
       array.each_with_index do |name,index|
         current_line << "#{index + 1}. #{name}"  #["1. name", "2. name"]
       end
-    puts current_line.join(" ") 
+    puts current_line.join(" ") #["The line... 1.name "]
   end
 end
 
