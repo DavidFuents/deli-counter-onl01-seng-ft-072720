@@ -12,6 +12,7 @@ def line(array)
         current_line << "#{index + 1}. #{name}"  #["1. name", "2. name"]
       end
     puts current_line.join(" ") #["The line... 1.name "]
+    binding.pry
   end
 end
 
