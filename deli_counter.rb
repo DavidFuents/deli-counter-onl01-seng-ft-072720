@@ -70,4 +70,42 @@ end
 
 
 
+def now_serving(array)
+  if array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
