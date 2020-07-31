@@ -70,7 +70,7 @@ end
 
 
 
-def now_serving(array) #["adfjl", "kasjhdfkj", "sadhfj"]
+def now_serving(array) #["1", "2", "sadhfj"]
   if array.empty?
     ....
   else 
